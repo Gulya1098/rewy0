@@ -1,8 +1,8 @@
 name = 'Gulya'
-print(name, type(name))
+print(name)
 age = 26
-print(name, type(26))
+print(age)
 new_age = 27
-print(new_age, type(27))
+print(new_age)
 is_student = True
-print(is_student, type(True))
+print(is_student)
